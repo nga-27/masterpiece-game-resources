@@ -8,5 +8,62 @@
             "artist": "Claude Monet",
             "filename": "monet_pond.png"
         }
-    }
+    },
+    "board": [
+        {
+            "title": "PRIVATE AUCTION",
+            "id": 0,
+            "type": "private_auction"
+        },
+        {
+            "title": "Buy a painting from the bank for $100,000",
+            "id": 1,
+            "type": "buy_bank_100"
+        },
+        {
+            "title": "COLLECT $100,000",
+            "id": 2,
+            "type": "collect_100"
+        },
+        {
+            "title": "BANK AUCTION",
+            "id": 3,
+            "type": "bank_auction"
+        },
+        {
+            "title": "PRIVATE AUCTION",
+            "id": 4,
+            "type": "private_auction"
+        },
+        {
+            "title": "PRIVATE AUCTION",
+            "id": 0,
+            "type": "private_auction"
+        },
+        {
+            "title": "PRIVATE AUCTION",
+            "id": 0,
+            "type": "private_auction"
+        },
+        {
+            "title": "PRIVATE AUCTION",
+            "id": 0,
+            "type": "private_auction"
+        },
+        {
+            "title": "PRIVATE AUCTION",
+            "id": 0,
+            "type": "private_auction"
+        },
+        {
+            "title": "PRIVATE AUCTION",
+            "id": 0,
+            "type": "private_auction"
+        },
+        {
+            "title": "PRIVATE AUCTION",
+            "id": 0,
+            "type": "private_auction"
+        }
+    ]
 }
