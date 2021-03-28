@@ -1,0 +1,12 @@
+{
+    "config": {
+        "base_url": "https://github.com/nga-27/"
+    },
+    "art": {
+        "The Water Lily Pond": {
+            "title": "The Water Lily Pond",
+            "artist": "Claude Monet",
+            "filename": "monet_pond.png"
+        }
+    }
+}
