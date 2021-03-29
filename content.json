@@ -4,66 +4,289 @@
     },
     "art": {
         "The Water Lily Pond": {
-            "title": "The Water Lily Pond",
-            "artist": "Claude Monet",
+            "year": "1899",
+            "artist": {
+                "name": "Claude Monet",
+                "lifetime": "1840-1926",
+                "location": "France"
+            },
             "filename": "monet_pond.png"
+        },
+        "The Assumption of the Virgin": {
+            "year": "1577",
+            "artist": {
+                "name": "El Greco",
+                "lifetime": "1541-1614",
+                "location": ""
+            },
+            "filename": "the_assumption.png"
+        },
+        "The Family Concert": {
+            "year": "1666",
+            "artist": {
+                "name": "Jan Steen",
+                "lifetime": "1626-1679",
+                "location": "Leyden"
+            },
+            "filename": "the_family_concert.png"
+        },
+        "American Gothic": {
+            "year": "1930",
+            "artist": {
+                "name": "Grant Wood",
+                "lifetime": "1892-1942",
+                "location": ""
+            },
+            "filename": "american_gothic.png"
+        },
+        "St. George and the Dragon": {
+            "year": "1438",
+            "artist": {
+                "name": "Bernardo Martorell",
+                "lifetime": "active: 1427-1452",
+                "location": ""
+            },
+            "filename": "st_george_and_the_dragon.png"
+        },
+        "The Rock": {
+            "year": "1948",
+            "artist": {
+                "name": "Peter Blume",
+                "lifetime": "1906-1992",
+                "location": "Belarus; CT (USA)"
+            },
+            "filename": "the_rock.png"
+        },
+        "The Bath (La toilette)": {
+            "year": "1891",
+            "artist": {
+                "name": "Mary Cassatt",
+                "lifetime": "1844-1926",
+                "location": ""
+            },
+            "filename": "the_bath.png"
+        },
+        "Sylvette (Portrait of Mlle. D.)": {
+            "year": "1954",
+            "artist": {
+                "name": "Pablo Picasso",
+                "lifetime": "1881-1973",
+                "location": "Spain; France"
+            },
+            "filename": "sylvette.png"
+        },
+        "Greyed Rainbow": {
+            "year": "1953",
+            "artist": {
+                "name": "Jackson Pollock",
+                "lifetime": "1912-1956",
+                "location": "USA"
+            },
+            "filename": "greyed_rainbow.png"
+        },
+        "Dancers in the Wings": {
+            "year": "1901",
+            "artist": {
+                "name": "Edgar Degas",
+                "lifetime": "1834-1917",
+                "location": "France"
+            },
+            "filename": "dancers_in_the_wings.png"
+        },
+        "Old St. Lazare Station, Paris": {
+            "year": "1877",
+            "artist": {
+                "name": "Claude Monet",
+                "lifetime": "1840-1926",
+                "location": ""
+            },
+            "filename": "old_st_lazare_station.png"
+        },
+        "On the Terrace": {
+            "year": "1881",
+            "artist": {
+                "name": "Pierre Auguste Renoir",
+                "lifetime": "1841-1919",
+                "location": ""
+            },
+            "filename": "on_the_terrace.png"
+        },
+        "St. John the Baptist in the Wilderness": {
+            "year": "1622",
+            "artist": {
+                "name": "Diego Velazquez",
+                "lifetime": "1599-1660",
+                "location": "Seville, Spain"
+            },
+            "filename": "st_john_the_baptist.png"
+        },
+        "Self Portrait: Vincent Van Gogh": {
+            "year": "1886",
+            "artist": {
+                "name": "Vincent Van Gogh",
+                "lifetime": "1853-1890",
+                "location": ""
+            },
+            "filename": "van_gogh.png"
+        },
+        "Combat between the Pasha and the Giaour": {
+            "year": "1827",
+            "artist": {
+                "name": "Eugene Delacroix",
+                "lifetime": "1798-1863",
+                "location": ""
+            },
+            "filename": "combat.png"
+        },
+        "Holy Family with Infant St. John and St. Elizabeth": {
+            "year": "1615",
+            "artist": {
+                "name": "Peter Paul Rubens",
+                "lifetime": "1577-1640",
+                "location": ""
+            },
+            "filename": "holy_family.png"
+        },
+        "Old Man with a Gold Chain (Rembrandt's Father)": {
+            "year": "1631",
+            "artist": {
+                "name": "Rembrandt Harmenszoon van Rijn",
+                "lifetime": "1606-1669",
+                "location": "The Netherlands"
+            },
+            "filename": "harmen_gerritsz.png"
+        },
+        "Nighthawks": {
+            "year": "1942",
+            "artist": {
+                "name": "Edward Hopper",
+                "lifetime": "1882-1967",
+                "location": "New York, USA"
+            },
+            "filename": "nighthawks.png"
+        },
+        "The Circus Rider": {
+            "year": "1927",
+            "artist": {
+                "name": "Marc Chagall",
+                "lifetime": "1887-1985",
+                "location": ""
+            },
+            "filename": "circus_rider.png"
+        },
+        "The Herring Net": {
+            "year": "1885",
+            "artist": {
+                "name": "Winslow Homer",
+                "lifetime": "1836-1910",
+                "location": ""
+            },
+            "filename": "herring_net.png"
+        },
+        "Watermill with Great Red Roof": {
+            "year": "1670",
+            "artist": {
+                "name": "Meindert Hobbema",
+                "lifetime": "1638-1709",
+                "location": ""
+            },
+            "filename": "watermill.png"
+        },
+        "Place de l'Europe on a Rainy Day": {
+            "year": "1877",
+            "artist": {
+                "name": "Gustave Caillebotte",
+                "lifetime": "1848-1894",
+                "location": ""
+            },
+            "filename": "rainy_day.png"
+        },
+        "At the Moulin Rouge": {
+            "year": "1892",
+            "artist": {
+                "name": "Henri Toulouse-Lautrec",
+                "lifetime": "1864-1901",
+                "location": "France"
+            },
+            "filename": "moulin_rouge.png"
+        },
+        "Still Life": {
+            "year": "1625",
+            "artist": {
+                "name": "Pieter Claesz",
+                "lifetime": "1596/97-1660",
+                "location": "The Netherlands"
+            },
+            "filename": "still_life.png"
+        },
+        "The Golden Wall": {
+            "year": "1961",
+            "artist": {
+                "name": "Hans Hoffman",
+                "lifetime": "1880-1966",
+                "location": "Germany; New York, USA"
+            },
+            "filename": "golden_wall.png"
         }
     },
-    "board": [
-        {
-            "title": "PRIVATE AUCTION",
-            "id": 0,
-            "type": "private_auction"
-        },
-        {
-            "title": "Buy a painting from the bank for $100,000",
-            "id": 1,
-            "type": "buy_bank_100"
-        },
-        {
-            "title": "COLLECT $100,000",
-            "id": 2,
-            "type": "collect_100"
-        },
-        {
-            "title": "BANK AUCTION",
-            "id": 3,
-            "type": "bank_auction"
-        },
-        {
-            "title": "PRIVATE AUCTION",
-            "id": 4,
-            "type": "private_auction"
-        },
-        {
-            "title": "PRIVATE AUCTION",
-            "id": 0,
-            "type": "private_auction"
-        },
-        {
-            "title": "PRIVATE AUCTION",
-            "id": 0,
-            "type": "private_auction"
-        },
-        {
-            "title": "PRIVATE AUCTION",
-            "id": 0,
-            "type": "private_auction"
-        },
-        {
-            "title": "PRIVATE AUCTION",
-            "id": 0,
-            "type": "private_auction"
-        },
-        {
-            "title": "PRIVATE AUCTION",
-            "id": 0,
-            "type": "private_auction"
-        },
-        {
-            "title": "PRIVATE AUCTION",
-            "id": 0,
-            "type": "private_auction"
-        }
-    ]
+    "game_board": {
+        "image": {},
+        "places": [
+            {
+                "title": "PRIVATE AUCTION",
+                "id": 0,
+                "type": "private_auction"
+            },
+            {
+                "title": "Buy a painting from the bank for $100,000",
+                "id": 1,
+                "type": "buy_bank_100"
+            },
+            {
+                "title": "COLLECT $100,000",
+                "id": 2,
+                "type": "collect_100"
+            },
+            {
+                "title": "BANK AUCTION",
+                "id": 3,
+                "type": "bank_auction"
+            },
+            {
+                "title": "PRIVATE AUCTION",
+                "id": 4,
+                "type": "private_auction"
+            },
+            {
+                "title": "PRIVATE AUCTION",
+                "id": 0,
+                "type": "private_auction"
+            },
+            {
+                "title": "PRIVATE AUCTION",
+                "id": 0,
+                "type": "private_auction"
+            },
+            {
+                "title": "PRIVATE AUCTION",
+                "id": 0,
+                "type": "private_auction"
+            },
+            {
+                "title": "PRIVATE AUCTION",
+                "id": 0,
+                "type": "private_auction"
+            },
+            {
+                "title": "PRIVATE AUCTION",
+                "id": 0,
+                "type": "private_auction"
+            },
+            {
+                "title": "PRIVATE AUCTION",
+                "id": 0,
+                "type": "private_auction"
+            }
+        ]
+    }
 }
