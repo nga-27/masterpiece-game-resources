@@ -230,63 +230,200 @@
         }
     },
     "game_board": {
-        "image": {},
+        "image": {
+            "filename": "masterpiece_board.png"
+        },
         "places": [
             {
                 "title": "PRIVATE AUCTION",
                 "id": 0,
-                "type": "private_auction"
+                "type": "private_auction",
+                "value": null
             },
             {
                 "title": "Buy a painting from the bank for $100,000",
                 "id": 1,
-                "type": "buy_bank_100"
+                "type": "buy_from_bank",
+                "value": 100
             },
             {
                 "title": "COLLECT $100,000",
                 "id": 2,
-                "type": "collect_100"
+                "type": "collect",
+                "value": 100
             },
             {
                 "title": "BANK AUCTION",
                 "id": 3,
-                "type": "bank_auction"
+                "type": "bank_auction",
+                "value": null
             },
             {
                 "title": "PRIVATE AUCTION",
                 "id": 4,
-                "type": "private_auction"
+                "type": "private_auction",
+                "value": null
+            },
+            {
+                "title": "Buy a painting from the bank for $300,000",
+                "id": 5,
+                "type": "buy_from_bank",
+                "value": 300
+            },
+            {
+                "title": "May sell any painting to the bank",
+                "id": 6,
+                "type": "sell_to_bank",
+                "value": null
+            },
+            {
+                "title": "COLLECT $200,000",
+                "id": 7,
+                "type": "collect",
+                "value": 200
             },
             {
                 "title": "PRIVATE AUCTION",
-                "id": 0,
-                "type": "private_auction"
+                "id": 8,
+                "type": "private_auction",
+                "value": null
+            },
+            {
+                "title": "May sell any painting to the bank",
+                "id": 9,
+                "type": "sell_to_bank",
+                "value": null
+            },
+            {
+                "title": "BANK AUCTION",
+                "id": 10,
+                "type": "bank_auction",
+                "value": null
             },
             {
                 "title": "PRIVATE AUCTION",
-                "id": 0,
-                "type": "private_auction"
+                "id": 11,
+                "type": "private_auction",
+                "value": null
+            },
+            {
+                "title": "May sell any painting to the bank",
+                "id": 12,
+                "type": "sell_to_bank",
+                "value": null
+            },
+            {
+                "title": "Buy a painting from the bank for $350,000",
+                "id": 13,
+                "type": "buy_from_bank",
+                "value": 350
+            },
+            {
+                "title": "COLLECT $400,000",
+                "id": 14,
+                "type": "collect",
+                "value": 400
             },
             {
                 "title": "PRIVATE AUCTION",
-                "id": 0,
-                "type": "private_auction"
+                "id": 15,
+                "type": "private_auction",
+                "value": null
+            },
+            {
+                "title": "May sell any painting to the bank",
+                "id": 16,
+                "type": "sell_to_bank",
+                "value": null
+            },
+            {
+                "title": "Buy a painting from the bank for $250,000",
+                "id": 17,
+                "type": "buy_from_bank",
+                "value": 250
+            },
+            {
+                "title": "BANK AUCTION",
+                "id": 18,
+                "type": "bank_auction",
+                "value": null
+            },
+            {
+                "title": "Buy a painting from the bank for $400,000",
+                "id": 19,
+                "type": "buy_from_bank",
+                "value": 400
             },
             {
                 "title": "PRIVATE AUCTION",
-                "id": 0,
-                "type": "private_auction"
+                "id": 20,
+                "type": "private_auction",
+                "value": null
+            },
+            {
+                "title": "May sell any painting to the bank",
+                "id": 21,
+                "type": "sell_to_bank",
+                "value": null
+            },
+            {
+                "title": "Buy a painting from ANY PLAYER for $400,000",
+                "id": 22,
+                "type": "buy_from_player",
+                "value": 400
+            },
+            {
+                "title": "COLLECT $500,000",
+                "id": 23,
+                "type": "collect",
+                "value": 500
+            },
+            {
+                "title": "BANK AUCTION",
+                "id": 24,
+                "type": "bank_auction",
+                "value": null
             },
             {
                 "title": "PRIVATE AUCTION",
-                "id": 0,
-                "type": "private_auction"
+                "id": 25,
+                "type": "private_auction",
+                "value": null
             },
             {
-                "title": "PRIVATE AUCTION",
-                "id": 0,
-                "type": "private_auction"
+                "title": "MUST sell any painting to the bank",
+                "id": 26,
+                "type": "must_sell_to_bank",
+                "value": null
+            },
+            {
+                "title": "Inherit a painting from the bank",
+                "id": 27,
+                "type": "inherit",
+                "value": 0
+            },
+            {
+                "title": "COLLECT $300,000",
+                "id": 28,
+                "type": "collect",
+                "value": 300
+            },
+            {
+                "title": "May sell any painting to the bank",
+                "id": 29,
+                "type": "sell_to_bank",
+                "value": null
             }
+        ],
+        "types": [
+            "private_auction",
+            "sell_to_bank",
+            "must_sell_to_bank",
+            "bank_auction",
+            "inherit",
+            "collect",
+            "buy_from_player",
+            "buy_from_bank"
         ]
     }
 }
