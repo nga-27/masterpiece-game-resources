@@ -425,5 +425,72 @@
             "buy_from_player",
             "buy_from_bank"
         ]
+    },
+    "characters": {
+        "'Bitsy' Rich Wong Dobrowski Keyes": {
+            "bio": [
+                "Her daddy spent untold millions trying to keep Bitsy in the best schools.",
+                "Her society friends gasped over her marriages to a gardener, a pro linebacker, and a piano tuner.",
+                "On coming into her inheritance, Bitsy realized the shallowness of her life.",
+                "She vowed to sell her silly blue-chip stocks and turn the money into something useful.",
+                "That's why she is now buying priceless art treasures to put in her priceless collection of gold frames."
+            ],
+            "image": "bitsy.png",
+            "id": "c0"
+        },
+        "V. Elton Whitehall, Esq.": {
+            "bio": [
+                "Once London's top criminal lawyer.",
+                "Defended the mob indicted in 3 million pound train robbery.",
+                "All were freed.",
+                "The Barrister retired to his Swiss retreat immediately thereafter.",
+                "Cautious, conservative, yet smilingly feared in highly cultured circles.",
+                "Currently maintains fabulous estates in Switzerland, Majorca, and Northern Finland.",
+                "He drives an orange Bentley."
+            ],
+            "image": "v_elton.png",
+            "id": "c1"
+        },
+        "Count Francois Du Bonnet": {
+            "bio": [
+                "One of the most popular figures on the continent.",
+                "Crafty, cunning, charming beyond belief.",
+                "During the Nazi occupation, the Count worked with French groups posing as an enemy collaborator when the Louvre was sacked.",
+                "Still some question as to whether the Germans stole genuines or forgeries.",
+                "Made headlines in 1951 when he purchased an unknown original Rembrandt for 34 francs."
+            ],
+            "image": "count.png",
+            "id": "c2"
+        },
+        "Baron Dietrich von Oberlitzer": {
+            "bio": [
+                "No dossier prior to WWII available.",
+                "Amassed fortune through steel, munitions, shipping.",
+                "Shrewd businessman; once signed multi-million dollar contract in disappearing ink.",
+                "Extremely canny mind, capable of great intelligence, fantastic feats of memory.",
+                "A regular at Monaco, Las Vegas, and private London clubs."
+            ],
+            "image": "baron.png",
+            "id": "c3"
+        },
+        "Millicent Friendly": {
+            "bio": [
+                "Spinster librarian from Central City",
+                "Won a free trip to Omaha in 1947 where she was first exposed to great art.",
+                "Later inherited modest sum from a secret admirer and parlayed it into several million through cautious, skilled investments in art.",
+                "seemingly shy and unassuming, but reputed to have a mean temper."
+            ],
+            "image": "millicent.png",
+            "id": "c4"
+        },
+        "Roxy 'Big D' Warrenson, Dallas, TX, USA": {
+            "bio": [
+                "Widow of 'Bull' Warrenson who, when ramming a 'for sale' sign into his untillable land, inadvertently discovered Warrenson's Great Underground Oil Ocean.",
+                "'Bull' was gushed to death and a fortune fell to Roxy. Her checkered theatrical background and apparent 'so what' attitude are considered definite advantages during hight tension bidding.",
+                "Roxy has been the 11th best dressed woman in every year's poll, reflecting her impeccable taste."
+            ],
+            "image": "roxy.png",
+            "id": "c5"
+        }
     }
 }
